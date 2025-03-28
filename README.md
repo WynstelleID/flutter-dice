@@ -1,4 +1,4 @@
-# first_app
+# flutter_dice
 
 A new Flutter project.
 
